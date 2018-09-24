@@ -10,5 +10,7 @@ Sitio oficial del curso: <a href="http://progra.usm.cl">http://progra.usm.cl</a>
 ## Link a clases
 <ul>
   <li><b>Clase 02:</b> Diagrama de Flujo (<a href="https://github.com/cristopherarenas/progra/blob/master/02_Diagrama_Flujo_2018.ipynb">Link</a>)</li>
-  <li><b>Clase 03:</b> Introducción a Python: intérprete, tipos de datos, operados, entrada y salida de datos (<a href="https://github.com/cristopherarenas/progra/blob/master/03_Intro_Python_2018.ipynb">Link</a>)</li>
+  <li><b>Clase 03:</b> Introducción a Python: intérprete, tipos de datos, operandos, entrada y salida de datos (<a href="https://github.com/cristopherarenas/progra/blob/master/03_Intro_Python_2018.ipynb">Link</a>)</li>
+  <li><b>Clase 04:</b> Funciones (<a href="https://github.com/cristopherarenas/progra/blob/master/04_Funciones_2018.ipynb">Link</a>)</li>
+  <li><b>Clase 05:</b> Condicionales y Ciclos (<a href="https://github.com/cristopherarenas/progra/blob/master/05_Condicionales_Ciclos_2018.ipynb">Link</a>)</li>
 </ul>
