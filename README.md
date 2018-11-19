@@ -18,4 +18,7 @@ Sitio oficial del curso: <a href="http://progra.usm.cl">http://progra.usm.cl</a>
   <li><b>Clase 08:</b> Tuplas (<a href="https://github.com/cristopherarenas/progra/blob/master/08_Tuplas_2018.ipynb">Link</a>)</li>
   <li><b>Clase 09:</b> Funciones Avanzadas (<a href="https://github.com/cristopherarenas/progra/blob/master/09_Funciones_Avanzadas_2018.ipynb">Link</a>)</li>
   <li><b>Clase 10:</b> Diccionarios (<a href="https://github.com/cristopherarenas/progra/blob/master/10_Diccionarios_2018.ipynb">Link</a>)</li>
+  <li><b>Clase 11:</b> Conjuntos (<a href="https://github.com/cristopherarenas/progra/blob/master/11_Conjuntos_2018.ipynb">Link</a>)</li>
+  <li><b>Clase 12:</b> Procesamiento de Texto (<a href="https://github.com/cristopherarenas/progra/blob/master/12_Procesamiento_de_Texto_2018.ipynb">Link</a>)</li>
+  <li><b>Clase 13:</b> Archivos (<a href="https://github.com/cristopherarenas/progra/blob/master/13_Archivos_2018.ipynb">Link</a>)</li>
 </ul>
